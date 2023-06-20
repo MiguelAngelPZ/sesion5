@@ -1,0 +1,14 @@
+#contenedor{
+    background-color: brown;
+    
+    height: 300px;
+}
+
+#container-grid{
+    background-color: yellow;
+}
+
+#container-grid .col{
+    border: 1px solid black;
+    padding: 8px;
+}
